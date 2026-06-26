@@ -19,7 +19,7 @@ The project was carried out as part of the Electrical Machines and Power Electro
 
 ⸻
 
-⚙️ Specifications
+Specifications
 
 Parameter	Value
 Input Voltage	10 V
@@ -64,7 +64,7 @@ Methodology
 
 
 
-📂 Repository Contents
+ Repository Contents
 
 * Project Report (PDF)
 * Hardware implementation details
@@ -72,8 +72,7 @@ Methodology
 * README documentation
 
 ⸻
-
-👥 Team Members
+ Team Members
 
 * Ramala Amulya
 * Sathvik Rathod
